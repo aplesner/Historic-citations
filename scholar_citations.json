@@ -1,0 +1,456 @@
+{
+  "metadata": {
+    "date_generated": "2025-05-02 12:58:03.166979",
+    "total_scholars": 5,
+    "scholars_processed": ["Lioba Heimbach", "Roger Wattenhofer", "Andrew Ng", "Yoshua Bengio", "Geoffrey Hinton"]
+  },
+  "citation_data": [
+    {
+      "name": "Lioba Heimbach",
+      "id": "CJgiaf0AAAAJ",
+      "citations": [
+        {
+          "year": 2020,
+          "cites": 4
+        },
+        {
+          "year": 2021,
+          "cites": 18
+        },
+        {
+          "year": 2022,
+          "cites": 61
+        },
+        {
+          "year": 2023,
+          "cites": 177
+        },
+        {
+          "year": 2024,
+          "cites": 349
+        },
+        {
+          "year": 2025,
+          "cites": 103
+        }
+      ],
+      "institution": "ETH Zurich"
+    },
+    {
+      "name": "Roger Wattenhofer",
+      "id": "EG3VPm4AAAAJ",
+      "citations": [
+        {
+          "year": 2002,
+          "cites": 138
+        },
+        {
+          "year": 2003,
+          "cites": 304
+        },
+        {
+          "year": 2004,
+          "cites": 577
+        },
+        {
+          "year": 2005,
+          "cites": 873
+        },
+        {
+          "year": 2006,
+          "cites": 1116
+        },
+        {
+          "year": 2007,
+          "cites": 1162
+        },
+        {
+          "year": 2008,
+          "cites": 1643
+        },
+        {
+          "year": 2009,
+          "cites": 1757
+        },
+        {
+          "year": 2010,
+          "cites": 1873
+        },
+        {
+          "year": 2011,
+          "cites": 1803
+        },
+        {
+          "year": 2012,
+          "cites": 1873
+        },
+        {
+          "year": 2013,
+          "cites": 1747
+        },
+        {
+          "year": 2014,
+          "cites": 1666
+        },
+        {
+          "year": 2015,
+          "cites": 1615
+        },
+        {
+          "year": 2016,
+          "cites": 1924
+        },
+        {
+          "year": 2017,
+          "cites": 1981
+        },
+        {
+          "year": 2018,
+          "cites": 2299
+        },
+        {
+          "year": 2019,
+          "cites": 2256
+        },
+        {
+          "year": 2020,
+          "cites": 2322
+        },
+        {
+          "year": 2021,
+          "cites": 2221
+        },
+        {
+          "year": 2022,
+          "cites": 2328
+        },
+        {
+          "year": 2023,
+          "cites": 2560
+        },
+        {
+          "year": 2024,
+          "cites": 3291
+        },
+        {
+          "year": 2025,
+          "cites": 898
+        }
+      ],
+      "institution": "ETH Zurich"
+    },
+    {
+      "name": "Andrew Ng",
+      "id": "mG4imMEAAAAJ",
+      "citations": [
+        {
+          "year": 2004,
+          "cites": 721
+        },
+        {
+          "year": 2005,
+          "cites": 1075
+        },
+        {
+          "year": 2006,
+          "cites": 1340
+        },
+        {
+          "year": 2007,
+          "cites": 1869
+        },
+        {
+          "year": 2008,
+          "cites": 2514
+        },
+        {
+          "year": 2009,
+          "cites": 3432
+        },
+        {
+          "year": 2010,
+          "cites": 4441
+        },
+        {
+          "year": 2011,
+          "cites": 5352
+        },
+        {
+          "year": 2012,
+          "cites": 6908
+        },
+        {
+          "year": 2013,
+          "cites": 8847
+        },
+        {
+          "year": 2014,
+          "cites": 11273
+        },
+        {
+          "year": 2015,
+          "cites": 13959
+        },
+        {
+          "year": 2016,
+          "cites": 16778
+        },
+        {
+          "year": 2017,
+          "cites": 18018
+        },
+        {
+          "year": 2018,
+          "cites": 21564
+        },
+        {
+          "year": 2019,
+          "cites": 23633
+        },
+        {
+          "year": 2020,
+          "cites": 25528
+        },
+        {
+          "year": 2021,
+          "cites": 26611
+        },
+        {
+          "year": 2022,
+          "cites": 26050
+        },
+        {
+          "year": 2023,
+          "cites": 25937
+        },
+        {
+          "year": 2024,
+          "cites": 26073
+        },
+        {
+          "year": 2025,
+          "cites": 7472
+        }
+      ],
+      "institution": "Stanford University"
+    },
+    {
+      "name": "Yoshua Bengio",
+      "id": "kukA0LcAAAAJ",
+      "citations": [
+        {
+          "year": 2012,
+          "cites": 2821
+        },
+        {
+          "year": 2013,
+          "cites": 4366
+        },
+        {
+          "year": 2014,
+          "cites": 7380
+        },
+        {
+          "year": 2015,
+          "cites": 13676
+        },
+        {
+          "year": 2016,
+          "cites": 25303
+        },
+        {
+          "year": 2017,
+          "cites": 41418
+        },
+        {
+          "year": 2018,
+          "cites": 67881
+        },
+        {
+          "year": 2019,
+          "cites": 90258
+        },
+        {
+          "year": 2020,
+          "cites": 107349
+        },
+        {
+          "year": 2021,
+          "cites": 121142
+        },
+        {
+          "year": 2022,
+          "cites": 123401
+        },
+        {
+          "year": 2023,
+          "cites": 129361
+        },
+        {
+          "year": 2024,
+          "cites": 134147
+        },
+        {
+          "year": 2025,
+          "cites": 41128
+        }
+      ],
+      "institution": "University of Montreal"
+    },
+    {
+      "name": "Geoffrey Hinton",
+      "id": "JicYPdAAAAAJ",
+      "citations": [
+        {
+          "year": 1989,
+          "cites": 2492
+        },
+        {
+          "year": 1990,
+          "cites": 3511
+        },
+        {
+          "year": 1991,
+          "cites": 3709
+        },
+        {
+          "year": 1992,
+          "cites": 3991
+        },
+        {
+          "year": 1993,
+          "cites": 4469
+        },
+        {
+          "year": 1994,
+          "cites": 4353
+        },
+        {
+          "year": 1995,
+          "cites": 3891
+        },
+        {
+          "year": 1996,
+          "cites": 3807
+        },
+        {
+          "year": 1997,
+          "cites": 3643
+        },
+        {
+          "year": 1998,
+          "cites": 3622
+        },
+        {
+          "year": 1999,
+          "cites": 3446
+        },
+        {
+          "year": 2000,
+          "cites": 3183
+        },
+        {
+          "year": 2001,
+          "cites": 3294
+        },
+        {
+          "year": 2002,
+          "cites": 3812
+        },
+        {
+          "year": 2003,
+          "cites": 3688
+        },
+        {
+          "year": 2004,
+          "cites": 3359
+        },
+        {
+          "year": 2005,
+          "cites": 3810
+        },
+        {
+          "year": 2006,
+          "cites": 4149
+        },
+        {
+          "year": 2007,
+          "cites": 4555
+        },
+        {
+          "year": 2008,
+          "cites": 4299
+        },
+        {
+          "year": 2009,
+          "cites": 4721
+        },
+        {
+          "year": 2010,
+          "cites": 5166
+        },
+        {
+          "year": 2011,
+          "cites": 5686
+        },
+        {
+          "year": 2012,
+          "cites": 6780
+        },
+        {
+          "year": 2013,
+          "cites": 10018
+        },
+        {
+          "year": 2014,
+          "cites": 12789
+        },
+        {
+          "year": 2015,
+          "cites": 18981
+        },
+        {
+          "year": 2016,
+          "cites": 30010
+        },
+        {
+          "year": 2017,
+          "cites": 43750
+        },
+        {
+          "year": 2018,
+          "cites": 63691
+        },
+        {
+          "year": 2019,
+          "cites": 80966
+        },
+        {
+          "year": 2020,
+          "cites": 89956
+        },
+        {
+          "year": 2021,
+          "cites": 101361
+        },
+        {
+          "year": 2022,
+          "cites": 103460
+        },
+        {
+          "year": 2023,
+          "cites": 106591
+        },
+        {
+          "year": 2024,
+          "cites": 107847
+        },
+        {
+          "year": 2025,
+          "cites": 32961
+        }
+      ],
+      "institution": "University of Toronto"
+    }
+  ]
+}
